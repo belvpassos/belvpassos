@@ -19,7 +19,7 @@ Interests: Robotics, HMI, aerospace software, mission simulation, data visualiza
 Endurance - Space Mission Simulation Platform
 Independent software project focused on space mission simulation, monitoring interfaces, and mission-data visualization.
 
-## Stack: React, TypeScript, FastAPI, PostgreSQL, REST APIs
+Stack: React, TypeScript, FastAPI, PostgreSQL, REST APIs
 
 ## Current work includes:
 
@@ -31,7 +31,7 @@ Planned modules for EVA monitoring and orbital traffic visualization
 ## Ares Rover Control Interface
 Planned independent QML/Qt and ROS 2 portfolio project simulating an operator interface for a planetary rover.
 
-## Stack: QML, Qt, ROS 2, Python or C++
+Stack: QML, Qt, ROS 2, Python or C++
 
 ## Planned features:
 
